@@ -1,4 +1,4 @@
-module github.com/canhlinh/hlsdl
+module github.com/shurajan/hlsdl
 
 go 1.21.0
 
